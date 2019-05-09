@@ -1,0 +1,12 @@
+name: MetabWorkflowTutorial
+channels:
+  - defaults
+  - conda-forge
+  - cimcb
+dependencies:
+  - python=3.7.3
+  - beakerx=1.4.1
+  - numpy=1.16.3
+  - pandas=0.24.2
+  - openpyxl=2.6.1
+  - cimcb_lite=0.1.12
