@@ -14,16 +14,16 @@ The tutorials takes you through the process of using interactive notebooks to pr
     
 ## Quick Start
 #### Tutorial 1:
--  [Tutorial 1 static notebook](https://rawcdn.githack.com/CIMCB/MetabWorkflowTutorial/cc9ac0e35243d7f38b6b14f8d5892531a46ec1e1/Tutorial1.html)
+-  [Tutorial 1 static notebook](https://cimcb.github.io/MetabWorkflowTutorial/Tutorial1.html)
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master)
 
 #### Tutorial 2:
--  [Tutorial 2 static notebook](https://rawcdn.githack.com/CIMCB/MetabWorkflowTutorial/cc9ac0e35243d7f38b6b14f8d5892531a46ec1e1/Tutorial2.html)
+-  [Tutorial 2 static notebook](https://cimcb.github.io/MetabWorkflowTutorial/Tutorial2.html)
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master)
 
 #### Tutorial 4:
--  [Tutorial 4 static Python notebook](https://rawcdn.githack.com/CIMCB/MetabSimpleQcViz/d8a45ff5c86fea036acb9072c8727dc2141e343d/Tutorial4_Python.html)
--  [Tutorial 4 static Rscript notebook](https://rawcdn.githack.com/CIMCB/MetabSimpleQcViz/d8a45ff5c86fea036acb9072c8727dc2141e343d/Tutorial4_Rscript.html)
+-  [Tutorial 4 static Python notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4_Python.html)
+-  [Tutorial 4 static Rscript notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4_Rscript.html)
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabSimpleQcViz/master)
   
 <br />
@@ -44,7 +44,7 @@ The tutorials takes you through the process of using interactive notebooks to pr
 <i>In this tutorial we will step though a metabolomics computational workflow that has already been implemented as a Jupyter Notebook and deployed on Binder. In this workflow we will interrogate a published  <a href="https://www.nature.com/articles/bjc2015414">(Chan et al., 2016)</a> NMR urine data set (deconvolved and annotated) used to discriminate between samples from gastric cancer and healthy patients. The data set is available in the <a href="http://www.metabolomicsworkbench.org">Metabolomics Workbench data repository</a> (Project ID PR000699). The data can be accessed directly via its project <a href="http://dx.doi.org/DOI:10.21228/M8B10B">DOI:10.21228/M8B10B</a>.</i>
 </p>
 
-<p align="justify"> <i>Prior to beginning this tutorial, it is recommended to view the provided static version of the <code>Jupyter</code> analysis notebook: <a href="https://rawcdn.githack.com/CIMCB/MetabWorkflowTutorial/cc9ac0e35243d7f38b6b14f8d5892531a46ec1e1/Tutorial1.html">Tutorial 1: Static Notebook</a></i>
+<p align="justify"> <i>Prior to beginning this tutorial, it is recommended to view the provided static version of the <code>Jupyter</code> analysis notebook: <a href="https://cimcb.github.io/MetabWorkflowTutorial/Tutorial1.html">Tutorial 1: Static Notebook</a></i>
 </p>
 
 #### Tutorial 1 steps:
@@ -80,7 +80,7 @@ The fuctionality of the notebook in Tutorial 2 is identical to Tutorial 1, but n
 </p>
  
 <p align="justify">
-<i>Prior to beginning this tutorial, it is recommended to view the provided static version of the <code>Jupyter</code> analysis notebook: <a href="https://rawcdn.githack.com/CIMCB/MetabWorkflowTutorial/cc9ac0e35243d7f38b6b14f8d5892531a46ec1e1/Tutorial2.html">Tutorial 2: Static Notebook</a></i>
+<i>Prior to beginning this tutorial, it is recommended to view the provided static version of the <code>Jupyter</code> analysis notebook: <a href="https://cimcb.github.io/MetabWorkflowTutorial/Tutorial2.html">Tutorial 2: Static Notebook</a></i>
 </p>
 
 #### Tutorial 2 steps:
@@ -144,7 +144,7 @@ jupyter notebook
 3.	A PCA scores plot of the data set labelled by sample type.
 4.	A bubble scatter plot of molecular mass vs. retention time, with bubble size proportional to QCRSD
 
-*Prior to beginning this tutorial, it is recommended to view the provided static version of the `Jupyter` analysis notebook: [Tutorial 4 (Python): Static Notebook](https://rawcdn.githack.com/CIMCB/MetabSimpleQcViz/d8a45ff5c86fea036acb9072c8727dc2141e343d/Tutorial4_Python.html)*
+*Prior to beginning this tutorial, it is recommended to view the provided static version of the `Jupyter` analysis notebook: [Tutorial 4 (Python): Static Notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4_Rscript.html)*
 
 #### Tutorial 4 steps:
 1. Download and unzip the [repository](https://github.com/cimcb/MetabSimpleQcViz) to a folder on your own computer, as in tutorial 3.
