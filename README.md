@@ -36,6 +36,8 @@ The tutorials takes you through the process of using interactive notebooks to pr
 4.	[Creating a new Jupyter notebook on a local computer](#four)
 5.	[Deploying a Jupyter notebook on Binder via GitHub](#five)
 
+<br />
+
 <a id="one"></a>
 ## Tutorial 1: Launching and using a Jupyter notebook on Binder
 <p align="justify">
@@ -58,6 +60,8 @@ The tutorials takes you through the process of using interactive notebooks to pr
     5.1. Return to Jupyter landing page, by choosing "File" then "Open.."  
     5.2. Click the checkbox next to each file you wish to download  
     5.3. Click the ‘Download’ button from the top menu  
+
+<br />
 
 <a id="two"></a>
 ## Tutorial 2: Interacting with and editing a Jupyter notebook on Binder
@@ -95,6 +99,8 @@ The fuctionality of the notebook in Tutorial 2 is identical to Tutorial 1, but n
 
 **Note: Further guidance for step 4 is included in the notebook itself.**
 
+<br />
+
 <a id="three"></a>
 ## Tutorial 3: Downloading and installing a Jupyter notebook on a local machine.
 <p align="justify">
@@ -125,6 +131,8 @@ conda activate MetabWorkflowTutorial
 jupyter notebook
 ```
 
+<br />
+
 <a id="four"></a>
 ## Tutorial 4: Creating a new Jupyter notebook on a local computer
 <p align="justify">
@@ -152,6 +160,8 @@ jupyter notebook
     4.1. Save by clicking on the floppy disk icon (far left on the menu)    
     4.2. Close by clicking “File” and then “Close and Halt”from the top Jupyter menu    
     4.3. The Jupyter session can be closed by clicking on “Quit” on the Jupyter landing page tab of your web browser .   
+
+<br />
 
 <a id="five"></a>
 ## Tutorial 5: Deploying a Jupyter notebook on Binder via GitHub
