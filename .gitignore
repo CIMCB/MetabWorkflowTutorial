@@ -1,0 +1,6 @@
+# ignore Jupyter checkpoints
+.ipynb_checkpoints
+
+# ignore result files produced by notebooks
+modelPLS.xlsx
+stats.xlsx
