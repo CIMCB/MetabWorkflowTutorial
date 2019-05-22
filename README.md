@@ -22,8 +22,7 @@ The tutorials takes you through the process of using interactive notebooks to pr
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master)
 
 #### Tutorial 4:
--  [Tutorial 4 static Python notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4_Python.html)
--  [Tutorial 4 static Rscript notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4_Rscript.html)
+-  [Tutorial 4 static notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4.html)
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabSimpleQcViz/master)
   
 <br />
@@ -144,7 +143,7 @@ jupyter notebook
 3.	A PCA scores plot of the data set labelled by sample type.
 4.	A bubble scatter plot of molecular mass vs. retention time, with bubble size proportional to QCRSD
 
-*Prior to beginning this tutorial, it is recommended to view the provided static version of the `Jupyter` analysis notebook: [Tutorial 4 (Python): Static Notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4_Rscript.html)*
+*Prior to beginning this tutorial, it is recommended to view the provided static version of the `Jupyter` analysis notebook: [Tutorial 4: Static Notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4.html)*
 
 #### Tutorial 4 steps:
 1. Download and unzip the [repository](https://github.com/cimcb/MetabSimpleQcViz) to a folder on your own computer, as in tutorial 3.
