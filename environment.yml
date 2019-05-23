@@ -5,8 +5,9 @@ channels:
   - cimcb
 dependencies:
   - python=3.7.3
-  - beakerx=1.4.1
+  - beakerx=1.3.0
   - numpy=1.16.3
   - pandas=0.24.2
   - openpyxl=2.6.1
   - cimcb_lite=1.0.0
+  - tornado=5.1.1
