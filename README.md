@@ -28,6 +28,8 @@ The tutorials takes you through the process of using interactive notebooks to pr
 -  [Tutorial 4 static notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4.html)
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabSimpleQcViz/master?filepath=Tutorial4.ipynb)
 
+<br />
+
 ## Tutorials
 
 1.	[Launching and using a Jupyter notebook on Binder](#one)
