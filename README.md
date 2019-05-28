@@ -13,19 +13,20 @@ The tutorials takes you through the process of using interactive notebooks to pr
 <br />
     
 ## Quick Start
+
+#### *To launch the tutorial environment in the cloud:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master)
+
 #### Tutorial 1:
 -  [Tutorial 1 static notebook](https://cimcb.github.io/MetabWorkflowTutorial/Tutorial1.html)
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CIMCB/MetabWorkflowTutorial/master?filepath=Tutorial1.ipynb)
 
 #### Tutorial 2:
 -  [Tutorial 2 static notebook](https://cimcb.github.io/MetabWorkflowTutorial/Tutorial2.html)
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CIMCB/MetabWorkflowTutorial/master?filepath=Tutorial2.ipynb)
 
 #### Tutorial 4:
 -  [Tutorial 4 static notebook](https://cimcb.github.io/MetabSimpleQcViz/Tutorial4.html)
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabSimpleQcViz/master)
-  
-<br />
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabSimpleQcViz/master?filepath=Tutorial4.ipynb)
 
 ## Tutorials
 
