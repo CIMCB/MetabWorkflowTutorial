@@ -3,7 +3,7 @@
 # README.md - `SI_Mendez_etal_2019`   
 
 <p align="justify">
-This repository contains the supplementary information for the Binder Tutorial. The focuses is on experiential learning using an example interactive metabolomics data analysis workflow deployed using a combination of Python, Jupyter Notebooks and Binder. The three-step pedagogical process of understanding, implementation, and deployment is broken down into 5 tutorials.
+This repository contains the supplementary information for the his repository contains the supplementary information for the "Toward Collaborative Open Data Science in Metabolomics using Jupyter Notebooks and Cloud Computing" tutorial review. The focuses is on experiential learning using an example interactive metabolomics data analysis workflow deployed using a combination of Python, Jupyter Notebooks and Binder. The three-step pedagogical process of understanding, implementation, and deployment is broken down into 5 tutorials.
 </p>
 
 <p align="justify">
