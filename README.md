@@ -14,7 +14,7 @@ The tutorials takes you through the process of using interactive notebooks to pr
     
 ## Quick Start
 
-#### *To launch the tutorial environment in the cloud:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master)
+#### *To launch the tutorial environment in the cloud:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabWorkflowTutorial/master?urlpath=tree)
 
 #### Tutorial 1:
 -  [Tutorial 1 static notebook](https://cimcb.github.io/MetabWorkflowTutorial/Tutorial1.html)
