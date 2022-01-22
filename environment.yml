@@ -5,6 +5,7 @@ channels:
   - cimcb
 dependencies:
   - python=3.7.3
+  - jupyter=1.0.0
   - bokeh=1.1.0
   - numpy=1.16.3
   - pandas=0.24.2
