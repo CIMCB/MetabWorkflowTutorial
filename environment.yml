@@ -13,3 +13,4 @@ dependencies:
   - openpyxl=2.6.1
   - cimcb_lite=1.0.3
   - xlrd=1.2.0
+  - Jinja2==3.0.3
